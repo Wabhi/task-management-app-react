@@ -1,0 +1,19 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Create React App",
+        "description": "Set up the initial React project structure",
+        "status": "todo",
+        "date": "2024-11-17T10:00:00Z"
+      },
+      {
+        "id": 2,
+        "title": "Learn Context API",
+        "description": "Understand state management using Context API",
+        "status": "inprogress",
+        "date": "2024-11-16T14:30:00Z"
+      }
+    ]
+}
+  
